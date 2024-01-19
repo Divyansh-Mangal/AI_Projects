@@ -39,6 +39,5 @@ Branch commands -
     git checkout <branch_name> [to navigate]
     git checkout -b <new branch name> [to create new branch]
     git branch -f <branch name> [to delete branch]
-
+    
 '''
-...
