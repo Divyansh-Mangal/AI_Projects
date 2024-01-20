@@ -40,7 +40,10 @@ Branch commands -
     git checkout -b <new branch name> [to create new branch]
     git branch -f <branch name> [to delete branch]
     
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature1
     
 Mergin' Code -
     git diff <branch_name> [to compare differences in commits, files etc]
